@@ -85,6 +85,7 @@
 * **State Management:** React Context API – For handling Authentication (`AuthContext`) and Theming (`ThemeContext`) globally.
 
 ### **Backend & Database**
+![Schema Visualizer](https://github.com/gowtham2thrive/Echo/blob/main/backend/Schema%20Visualizer.svg)
 * **Platform:** [Supabase](https://supabase.com/) – The open-source Firebase alternative.
 * **Database:** PostgreSQL – Relational database for structured data (Complaints, Profiles, Outings).
 * **Authentication:** Supabase Auth – Secure email/password login with Row Level Security (RLS) policies.
